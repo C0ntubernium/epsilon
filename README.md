@@ -1,2 +1,3 @@
-# epsilon
-Playing with tech
+# Project
+
+Check [CLI Tool](./cli/README.md)
